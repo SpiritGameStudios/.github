@@ -4,5 +4,5 @@
 </h3>
 
 <p align="center">
-  Spirit Studios is a small Minecraft modding group that makes vanilla-style mods for Fabric.
+	Spirit Studios is a small Minecraft modding group that makes high-quality and fun mods for Fabric
 </p>
