@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="../assets/brand/spirit-512.png" width="100" alt="Logo"/><br/>
+	<img src="../assets/brand/logo-512x.png" width="100" alt="Logo"/><br/>
     Spirit Studios
 </h3>
 
